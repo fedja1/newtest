@@ -1,0 +1,22 @@
+{
+ "name": "myNewApissasd",
+  "version": "0.0.1",
+  "description": "Wicked awesome test API",
+  "author": "fhk <fedja@test.com>",
+  "main": "index.js",
+
+  "dependencies": {
+  },
+
+"devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+
+  "scripts": {
+    "zip": "zip -r ../myNewApi.zip *"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
